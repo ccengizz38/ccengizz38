@@ -3,7 +3,7 @@
 - 📫I have participated in many testnets.
 - I've been a node operator and set up node in many projects.
 - Some node installations that I participated and made as a node operator :
-- APTOS NODE 👉 https://aptos-node.info:8043/
+- APTOS 👉 https://aptos-node.info:8043/
 - GITOPIA 👉 https://gitopia.com/
 - MINIMA 👉 https://www.minima.global/
 - MASSA 👉 https://massa.net
