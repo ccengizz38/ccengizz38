@@ -11,9 +11,9 @@
 - MANTA 👉 https://www.manta.network/
 - ...
 - Some web platform testnets I've participated in :
-- https://testnet.umee.cc/
-- https://test-app.stafihub.io/
-- https://ropsten.beta.fluidity.money/
+- UMEE 👉 https://testnet.umee.cc/
+- STAFİHUB 👉https://test-app.stafihub.io/
+- FLUDITY 👉https://ropsten.beta.fluidity.money/
 - ...
 
 <!---
