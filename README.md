@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ccengizz38
+- 👋 Hi, I’m Cengiz
 - 👀 I’m interested in blockchain ecosystems, testnet and node building.
-- 📫I have participated in many testnets.
-- I've been a node operator and set up node in many projects.
-- Some node installations that I participated and made as a node operator :
+- 📫 I have participated in many testnets.
+- 📫 I've been a node operator and set up node in many projects.
+- 💻 Some node installations that I participated and made as a node operator :
 - APTOS 👉 https://aptos-node.info:8043/
 - GITOPIA 👉 https://gitopia.com/
 - MINIMA 👉 https://www.minima.global/
@@ -10,7 +10,7 @@
 - KYVE 👉 https://www.kyve.network/
 - MANTA 👉 https://www.manta.network/
 - ...
-- Some web platform testnets I've participated in :
+- 💻 Some web platform testnets I've participated in :
 - UMEE 👉 https://testnet.umee.cc/
 - STAFİHUB 👉https://test-app.stafihub.io/
 - FLUDITY 👉https://ropsten.beta.fluidity.money/
